@@ -22,3 +22,11 @@ function divide(a){
         }
     };
 }
+
+function operate(a){
+    return (b) => {
+        return (func) =>{
+            return func(a)(b);
+        };
+    };
+}
