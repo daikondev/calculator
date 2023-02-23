@@ -79,3 +79,11 @@ footer {
     list-style-type: none;
     font-size: 0.9em;
 }
+
+.grid-col-span-2 {
+    grid-column: span 2;
+}
+
+.grid-col-span-3 {
+    grid-column: span 3;
+}
