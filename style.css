@@ -1,0 +1,52 @@
+html {
+    font-size: 10px;
+    font-family: monospace;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+
+header {
+    display: flex;
+    justify-content: center;
+
+    background-color: #BFD1FF;
+    font-size: 5em;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: skyblue;
+    background-image: url("./images/cloud1.png");
+    font-size: 3em;
+
+    height: 800px; 
+}
+
+footer {
+
+    display: flex;
+    justify-content: center;
+
+    background-color: #BFD1FF;
+    font-size: 2em;
+    
+    padding: 1.1em;
+}
+
+#calc-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    height: 600px;
+    width: 400px;
+    
+    background-color: #92B8FF;
+}
