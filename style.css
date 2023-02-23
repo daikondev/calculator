@@ -61,10 +61,21 @@ footer {
 }
 
 .buttons {
+    display: grid;
+
     width: 300px;
     height: 400px;
 
     margin-top: 20px;
-    
+
     background-color: gray;
+}
+
+.numbers {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 30px;
+
+    list-style-type: none;
+    font-size: 0.9em;
 }
