@@ -1,3 +1,4 @@
+/* General */
 html {
     font-size: 10px;
     font-family: monospace;
@@ -8,7 +9,7 @@ body {
     margin: 0;
 }
 
-
+/* Body layout */
 header {
     display: flex;
     justify-content: center;
@@ -39,7 +40,7 @@ footer {
     
     padding: 1.1em;
 }
-
+/* Calculator */
 #calc-container {
     display: flex;
     flex-direction: column;
