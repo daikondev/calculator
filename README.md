@@ -10,5 +10,6 @@ Goals:
 Resources:
 1. CSS Grid - Kevin Powel: https://www.youtube.com/watch?v=rg7Fvvl3taU
 2. Add a favicon - W3C: https://www.w3schools.com/howto/howto_html_favicon.asp
+3. Template litterals: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
 
 _Made by @daikondev (__whiteradishdev@gmail.com__)._
