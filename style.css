@@ -110,3 +110,7 @@ li {
 .grid-col-span-3 {
     grid-column: span 3;
 }
+
+.disabled-button {
+    pointer-events: none;
+}
