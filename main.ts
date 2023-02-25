@@ -87,9 +87,9 @@ function divide(a: number){
         }
     };
 }
-function operate(a){
-    return (b) => {
-        return (func) => {
+function operate(a: number){
+    return (b: number) => {
+        return (func): number => {
             return func(a)(b);
         }
     }
