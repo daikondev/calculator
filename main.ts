@@ -62,6 +62,7 @@ function changeDisplay (num) {
     }
 }
 
+// Maths
 function add(a: number) {
     return (b: number): number => {
         return a + b;
